@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiryud
 - 👀 I’m interested in 42cursus
-- 🌱 I’m currently learning c in 42cursus
+- 🌱 I’m currently learning cpp in 42cursus (i’m finish last c programming minishell, miniRT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
