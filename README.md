@@ -6,5 +6,4 @@
 phone : 010-2490-9201
 email : lundagran@gmail.com
 ```
-
-![42 Stats](https://api.42stats.com/api/v1/users/jijeong/card?theme=dark)
+[![42 Seoul](https://img.shields.io/badge/42_Intranet-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/jijeong)
