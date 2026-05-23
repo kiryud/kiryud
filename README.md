@@ -9,3 +9,51 @@ phone : 010-2490-9201
 email : lundagran@gmail.com
 ```
 
+### 🕹️ 42 Course Progress
+
+<table>
+  <tr>
+    <td align="center"><b>Circle 00</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Libft-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Circle 01</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ft__printf-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/get__next__line-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/born2beroot-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Circle 02</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/minitalk-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/pipex-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/push__swap-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Circle 03</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/minishell-success?style=flat-square&color=00d2c4" />
+      <img src="https://img.shields.io/badge/philosophers-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Circle 04</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NetPractice-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/cub3d_/_miniRT-success?style=flat-square&color=000000" />
+      <img src="https://img.shields.io/badge/CPP_Modules-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Circle 05</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Inception-success?style=flat-square&color=00d2c4" />
+      <img src="https://img.shields.io/badge/webserv_/_ft_irc-success?style=flat-square&color=000000" />
+    </td>
+  </tr>
+</table>
