@@ -7,3 +7,4 @@ phone : 010-2490-9201
 email : lundagran@gmail.com
 ```
 
+![42 Stats](https://api.42stats.com/api/v1/users/jijeong/card?theme=dark)
