@@ -6,4 +6,4 @@
 phone : 010-2490-9201
 email : lundagran@gmail.com
 ```
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인_계정_ID&show_icons=true&theme=radical)
+
