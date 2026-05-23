@@ -56,10 +56,21 @@ email : lundagran@gmail.com
       <img src="https://img.shields.io/badge/webserv_/_ft_irc-success?style=flat-square&color=000000" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>Circle 06</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ft__transcendence-success?style=flat-square&color=00d2c4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Outer Circle</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Inno_/_Spinoff_Projects-success?style=flat-square&color=555555" />
+    </td>
+  </tr>
 </table>
 
-
-![Header](https://capsule-render.vercel.sh/api?type=waving&color=000000&height=180&section=header&text=42_SEOUL_CADET&fontSize=50&fontColor=00d2c4&animation=fadeIn)
+![Transcendence](https://img.shields.io/badge/42_Course-Transcendence_Done-00d2c4?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ![Norminette](https://img.shields.io/badge/Norminette-APPROVED-00d2c4?style=flat-square&logo=checkmarx&logoColor=white)
 ![Memory Leaks](https://img.shields.io/badge/Valgrind-No_Leaks_Found-brightgreen?style=flat-square&logo=linux)
