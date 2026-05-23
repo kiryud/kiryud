@@ -75,4 +75,4 @@ email : lundagran@gmail.com
 ![Norminette](https://img.shields.io/badge/Norminette-APPROVED-00d2c4?style=flat-square&logo=checkmarx&logoColor=white)
 ![Memory Leaks](https://img.shields.io/badge/Valgrind-No_Leaks_Found-brightgreen?style=flat-square&logo=linux)
 
-
+![Exam Rank 06](https://img.shields.io/badge/Exam_Rank_06-PASSED-00d2c4?style=flat-square&logo=speedtest&logoColor=white)
