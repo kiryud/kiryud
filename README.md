@@ -11,11 +11,13 @@ email : lundagran@gmail.com
 
 # project (작성중)
 
+<!-- TODO
+## TODO
+- 개별적인 프로젝트 git repo에 정리
+- ReadME.md 작성
+-->
+
 ## ecole42 Inner Circle
-
-## 42 Inner Circle
-
-
 
 |Tech|Circle|project|explain|
 |:---|:---|:---|:---|
@@ -37,3 +39,59 @@ email : lundagran@gmail.com
 |C|6|Exam-Rank-06 (mini_serv)|`select`|
 |web project|6|ft_transcendence (tini-pong)|`pong game(1972)` `SPA` `threeJS` `web socket`|
 
+
+# Skills? (작성중)
+
+<!-- TODO
+Lang
+    - 배워놓고 까먹은거 없는지 검증
+Tech
+    - 해본것, 해볼것 정리
+-->
+
+|Lang|framework/library|explain|
+|:---|:---|:---|
+|C|-|-|
+|C++|-|-|
+|-|STL|-|
+|C#|-|-|
+|-|Window Form App|-|
+|python|-|-|
+|-|Django|-|
+|Html/CSS|-|-|
+|JavaScript|-|-|
+|-|ThreeJS|-|
+|-|websocket|-|
+|JAVA|-|-|
+|-|Spring|-|
+|kotlin|-|-|
+|-|Android|-|
+|-|Spring Boot|-|
+|dart|-|-|
+|-|flutter|-|
+|-|-|-|
+
+|Tech|name|explain|
+|:---|:---|:---|
+|형상관리|-|-|
+|-|git|-|
+|-|github|-|
+|협업|-|-|
+|-|Jira|-|
+|-|Slack|-|
+|virtual|-|-|
+|-|docker|-|
+|-|docker-compose|-|
+|OS|-|-|
+|-|linux|-|
+|-|MacOS|-|
+|-|Window|-|
+|archetecture|-|-|
+|-|monolithic|-|
+|-|Micro Service Archetecture|-|
+|DBMS|-|-|
+|-|mysql|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
