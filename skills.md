@@ -35,8 +35,11 @@ Tech
 |Tech|name|explain|
 |:---|:---|:---|
 |형상관리|-|-|
-|-|git|-|
-|-|github|-|
+|-|git|`commit convention 숙지` `branch`|
+|-|github|`obsidian` `github action은 작성은 못해보고 사용만 해 본 수준`|
+|문서화|-|-|
+|-|notion|-|
+|-|obsidian|-|
 |협업|-|-|
 |-|Jira|-|
 |-|Slack|-|
