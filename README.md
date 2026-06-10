@@ -9,6 +9,6 @@ phone : 010-2490-9201
 email : lundagran@gmail.com
 ```
 
-# [project](./project.md) (작성중)
+# [Project](./project.md) (작성중)
 
 # [Skills](skills.md) (작성중)
