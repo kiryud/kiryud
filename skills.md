@@ -7,6 +7,8 @@ Tech
     - 해본것, 해볼것 정리
 ```
 
+
+## Language
 |Lang|framework/library|explain|
 |:---|:---|:---|
 |C|-|-|
@@ -29,6 +31,7 @@ Tech
 |-|flutter|-|
 |-|-|-|
 
+## Tool
 |Tech|name|explain|
 |:---|:---|:---|
 |형상관리|-|-|
