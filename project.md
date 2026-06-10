@@ -27,7 +27,7 @@
 |C|2|push_swap|두개의 변형된 스택을 통한 정렬 최적화 알고리즘 제작 `push` `swap` `rotate` `reverce_rotate`|
 |C|3|minishell|`shell` `pipe` `redirection` `execve` `built-in command` `signal handling`|
 |C|3|philosophers|`thread` `mutex` `process` `semapore`|
-|C|4|(miniRT)[https://github.com/kiryud/miniRT]|'mlx' 'ray-tracing'|
+|C|4|[miniRT](https://github.com/kiryud/miniRT)|'mlx' 'ray-tracing'|
 |web|4|netPractice|조건에 맞춰 ip와 서브넷 마스크 할당해보기|
 |C++|4|cpp-module-00~04|`oop` `OCCF`|
 |C++|5|cpp-module-00~04|`oop` `OCCF` `tamplate` `STL`|
