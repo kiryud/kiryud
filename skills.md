@@ -44,11 +44,11 @@ cpp 기준으로는 객체를 구현할 때 객체 자체의 생성자, 소멸�
 |-|git|`commit convention 숙지` `branch`|
 |-|github|`obsidian` `github action은 작성은 못해보고 사용만 해 본 수준`|
 |문서화|-|-|
-|-|notion|-|
-|-|obsidian|-|
+|-|notion|'42 팔만코딩경 contributer' 필요에 따라 기능을 찾아 꾸밀 수 있는 정도|
+|-|obsidian|마크다운 문법 기준으로 정리하고 기록하는 정도|
 |협업|-|-|
 |-|Jira|-|
-|-|Slack|-|
+|-|Slack|42 서울에서 협업할때 가장 많이 써봄|
 |virtual|-|-|
 |-|docker|-|
 |-|docker-compose|-|
@@ -63,6 +63,7 @@ cpp 기준으로는 객체를 구현할 때 객체 자체의 생성자, 소멸�
 |-|mysql|-|
 |-|-|-|
 |분류하기 애매한 것들|-|-|
+|-|shell scripting|-|
 |-|web socket|-|
 |-|MQ|-|
 |-|ray-tracing|-|
