@@ -6,14 +6,6 @@
 - ReadME.md 작성
 ```
 
-## 완료된 프로젝트
-
-### ecole42 Outer Circle
-
-|Subject|Tech|project|explain|
-|:---|:---|:---|:---|
-|-|-|-|-|
-
 ### ecole42 Inner Circle
 
 |Tech|Circle|project|explain|
