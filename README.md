@@ -28,7 +28,7 @@
 	- 제한시간 : 3시간
 	- tokenized arg를 기반으로 `|` `;`을 해석하여 실행시키는 시험
 	- fd의 최대치가 제한된 환경에서의 fd lifecycle 심화 학습
-- micro_serv (Exam-Rank-06)
+- mini_serv (Exam-Rank-06)
 	- 제한시간 : 3시간
 	- `select`를 기반으로 구현
 	- 연결 순서대로 ID를 부여받는 echo chatting server 제작
