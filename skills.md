@@ -14,7 +14,10 @@ c 기준으로는 인자 5개 제한을 넘기 위한 각 과제별 필요한 da
 cpp 기준으로는 객체를 구현할 때 객체 자체의 생성자, 소멸자, 복사생성자, = 연산자에 대한 오버로딩까지 제대로 작성해야하는 OCCF
 ```
 
-## Language
+
+
+
+## Language list
 |Lang|framework/library|explain|
 |:---|:---|:---|
 |C|-|-|
