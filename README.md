@@ -16,7 +16,6 @@
 - [miniRT](https://github.com/kiryud/miniRT) (2인/33일)
 	- 3D 레이트레이싱(Phong Lighting) 구현 프로젝트
 	- light, sphere, cylinder 구현
-	- diffuse와 그림자 구현
 - [minishell](https://github.com/kiryud/minishell) (2인/36일)
 	- 나만의 shell을 만드는 프로젝트
 	- builtin command를 제외한 나머지 실행 영역 구현
@@ -26,12 +25,16 @@
 		- PATH 기반 명령어 존재, 실행가능성 탐색 및 실행(execve)
 - microshell (Exam-Rank-04)
 	- 제한시간 : 3시간
-	- tokenized arg를 기반으로 `|` `;`을 해석하여 실행시키는 시험
+	- tokenized args를 기반으로 `|` `;`을 해석하여 실행시키는 시험
 	- fd의 최대치가 제한된 환경에서의 fd lifecycle 심화 학습
+ 	- redirection이 따로 없고 pipe만 적용하면 되기 때문에 `;`를 기준으로 반복을 돌리고 `|`를 기준으로 fd를 설정하는 반복문이 동작함
+  	- args가 사실상 cmds `|` or `;` cmds 구조이기때문에 각 루프마다 cmds의 0번째 index를 파악하여 기호가 있는 영역에 '\0'을 삽입 후 execve에 넣어 실행 과정 중 문자열을 위한 memory allocation을 피함
+  	- fd의 최대 개수를 10개 미만으로 제악하는 테스트케이스가 있어서 고민하다 명령줄의 모든 pipe를 한번에 여는것이 아니라 임의의 명령어를 실행할 땐 앞에 있는 pipe와 뒤에있는 pipe의 두 쌍의 pipe가 있으면 된다는것을 알게됨
 - mini_serv (Exam-Rank-06)
 	- 제한시간 : 3시간
 	- `select`를 기반으로 구현
 	- 연결 순서대로 ID를 부여받는 echo chatting server 제작
+   	- 10만 단위의 data를 전송해야했어서 buffer를 굉장히 크게 만들어봄
 #### C++ (c++98)
 > `OCCF`(Orthodox Canonical Class Form) 준수
 - [ft_irc](https://github.com/kiryud/42_ft_irc) (3인/55일)
