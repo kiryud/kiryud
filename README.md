@@ -13,11 +13,11 @@
 ### Language & Project
 #### C (c99) 
 > 42의 C coding convention인 `Norm` 준수, `leaks`를 통한 메모리 누수 검증
-- [miniRT](https://github.com/kiryud/miniRT)
+- [miniRT](https://github.com/kiryud/miniRT)(33일)
 	- 3D 레이트레이싱(Phong Lighting) 구현 프로젝트
 	- light, sphere, cylinder 구현
 	- diffuse와 그림자 구현
-- [minishell](https://github.com/kiryud/minishell)
+- [minishell](https://github.com/kiryud/minishell)(36일)
 	- 나만의 shell을 만드는 프로젝트
 	- builtin command를 제외한 나머지 실행 영역 구현
 		- tokenizer(parsing)
@@ -34,7 +34,7 @@
 	- 연결 순서대로 ID를 부여받는 echo chatting server 제작
 #### C++ (c++98)
 > `OCCF`(Orthodox Canonical Class Form) 준수
-- [ft_irc](https://github.com/kiryud/42_ft_irc)
+- [ft_irc](https://github.com/kiryud/42_ft_irc)(55일)
 	- 상용 클라이언트 프로그램과 소통 가능한 단일 irc서버 제작
 	- IRC 프로토콜 분석 및 Irc 로직 구현
 		- RFC 1459, RFC 2812 기반 명령어 동작 및 RPL MSG 정리
@@ -42,14 +42,14 @@
 		- nc를 통한 client에서 동작의 트리거가 되는 메세지가 뭔지 분석
 	- Server객체와 Irc객체 분리 및 호출 case 정의
 #### JavaScript (SPA / WebSocket / Three.js)
-- ft_transcendence ([tini-pong](https://github.com/kiryud/tini-pong))
+- ft_transcendence ([tini-pong](https://github.com/kiryud/tini-pong))(47일)
 	- pong 게임 구현
 	- SPA 구조 기반 클라이언트 개발
 	- WebSocket을 통한 온라인 멀티 플레이 구현
 	- Three.js 활용
 
-### Architecture
-- [Inception](https://github.com/kiryud/inception)
+#### Architecture
+- [Inception](https://github.com/kiryud/inception)(55일)
 	- Docker Compose (env / network / volume)
 	- LEMP (Alpine / Nginx / MariaDB / WordPress)
 	- Nginx / MariaDB / WordPress 컨테이너를 Alpine 컨테이너 기반으로 Dockerfile 직접 구현
