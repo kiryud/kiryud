@@ -83,6 +83,14 @@
 		- 목업 디자인을 기반으로 MVVM 패턴 앱 제작 과정 학습
   		- 주차별 진행과 그 과정에서 배운것은 vault 디렉토리에 존재
 
+
+## 기타 활동
+### with 42seoul
+- [팔만코딩경](https://80000coding.oopy.io/f986d574-dea8-4197-bb7f-ee94af020a44)
+- 수요지식회(발표)
+    - [termux](https://github.com/kiryud/termux_setting)
+	- ford-johnson algorithm ([cpp-module-09 ex02](./fja.md))
+
 # Contact
 ```
 정진석 (Jeong JinSeok)
