@@ -93,6 +93,7 @@
 - 수요지식회(발표)
     - [termux](https://github.com/kiryud/termux_setting) 갤럭시 탭을 활용해서 c 과제를 하고있었는데 관심가져주시는 분들이 많아서 간단하게 왜 가능하고, 어떻게 할 수 있는지 발표했다. 발표자료는 잃어버렸지만 그때 쓴 레포는 남아있다.
 	- ford-johnson algorithm ([cpp-module-09 ex02](./fja.md)) 이것도 마찬가지로 알음알음 나한테 질문해주시는분들이 생겨서 발표했었다.
+   		- [cpp-module-04~09](https://github.com/kiryud/cpp)해당 과제가 있는 레포
 
 # Contact
 ```
