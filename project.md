@@ -25,5 +25,7 @@
 |C|6|Exam-Rank-06 (mini_serv)|`select`|
 |web project|6|ft_transcendence ([tini-pong](https://github.com/kiryud/tini-pong))|`pong game(1972)` `SPA` `threeJS` `web socket`|
 
+### Outer circle
 
+- [ft_quine](https://github.com/kiryud/dr-quine)
 ---
