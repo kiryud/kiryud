@@ -9,7 +9,7 @@
 
 
 ## Experienced
-> 요구사항 분석, 설계, 예외처리, 구현의 모든 과정을 직접 진행한 경험
+> 요구사항 분석, 설계, 예외처리, 구현의 모든 과정을 직접 진행하여 프로젝트를 완성한 경험
 ### Language & Project
 #### C (c99) 
 > 42의 C coding convention인 `Norm` 준수, `leaks`를 통한 메모리 누수 검증
