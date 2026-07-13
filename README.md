@@ -84,7 +84,7 @@
   		- 주차별 진행과 그 과정에서 배운것은 vault 디렉토리에 존재
 
 
-## 기타 활동
+## Cummunity
 ### with 42seoul
 - [팔만코딩경](https://80000coding.oopy.io/f986d574-dea8-4197-bb7f-ee94af020a44)
 - 수요지식회(발표)
