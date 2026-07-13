@@ -81,6 +81,7 @@
 - Dart (Flutter)
 	- [unitask](https://github.com/kiryud/unitask)
 		- 목업 디자인을 기반으로 MVVM 패턴 앱 제작 과정 학습
+  		- 주차별 진행과 그 과정에서 배운것은 vault 디렉토리에 존재
 
 # Contact
 ```
