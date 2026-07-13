@@ -100,4 +100,4 @@ ecole42및 42서울의 수료 조건인 공통과정(Inner Circle)은 C, C++를 
 
 ### Notes
 #### [All Project List](./project.md) (작성중)
-#### [All Skill List](skills.md) (작성중)
+#### [All Skill List](./skills.md) (작성중)
