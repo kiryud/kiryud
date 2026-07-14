@@ -45,7 +45,7 @@
 		- nc를 통한 client에서 동작의 트리거가 되는 메세지가 뭔지 분석
 	- Server객체와 Irc객체 분리 및 호출 case 정의
 #### JavaScript (SPA / WebSocket / Three.js)
-- ft_transcendence ([tini-pong](https://github.com/kiryud/tini-pong)) (5인/47일)
+- ft_transcendence ([tini-pong](https://github.com/kiryud/tini-pong)) (5인/61일)
 	- pong 게임 구현
 	- SPA 구조 기반 클라이언트 개발
 	- WebSocket을 통한 온라인 멀티 플레이 구현
