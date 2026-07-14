@@ -293,8 +293,8 @@ Language : html/css/js python
 Type : group(5)
 introduce :
 - 구성
-	- frontend : vanilla JS
-	- backend : Django (python)
+	- frontend : vanilla JS Three.js WebSocket
+	- backend : Django (python) channels
 	- DB : postgresSQL
 - 요구 조건
 	- 필수
@@ -302,9 +302,54 @@ introduce :
 		- Pong game
 			- 1 vs 1
 			- tournament
-	- 선택
-		- 3d pong game
-		- multi user
+```
+
+```md
+# Web (2 Major 2 Minor)
+
+## **Major module**: Use a Framework as backend.
+
+- Django
+
+## Minor **module**: Use a front-end framework or toolkit.
+
+- Bootstrap
+
+## Minor **module**: Use a database for the backend -and more.
+
+- PostgreSQL
+
+## **Major module**: Store the score of a tournament in the Blockchain.
+## User Management (2 Major)
+
+## **Major module**: Standard user management, authentication, users across tournaments.
+
+## **Major module**: Implementing a remote authentication.
+## Cybersecurity (1 Major)
+
+## **Major module**: Implement Two-Factor Authentication (2FA) and JWT.
+## Pong (3 Major 1 Minor)
+
+## **Major module**: Remote players
+
+- Each player is located on a separated computer, accessing the same website and playing the same Pong game.
+
+## **Major module**: Multiple players
+
+- It is possible to have more than two players
+- Each player needs a live control
+
+## Minor **module**: Game Customization Options.
+
+- Offer customization features, such as power-ups, attacks, or different maps, that enhance the gameplay experience.
+- Allow users to choose a default version of the game with basic features if they prefer a simpler experience.
+- Ensure that customization options are available and applicable to all games offered on the platform.
+- Implement user-friendly settings menus or interfaces for adjusting game parameters.
+- Maintain consistency in customization features across all games to provide a unified user experience.
+
+## **Major module**: Implementing Advanced 3D Techniques
+
+- ThreeJS/WebGL
 ```
 
 
