@@ -90,7 +90,7 @@
 - Kotlin (android / spring boot)
 	- recyclerview 기반의 사진첩 앱 실습
 	- intent를 기반으로 한 화면 이동시 데이터 전송
-   	- spring boot는 학습중
+   	- spring boot (learning)
 - Dart (Flutter)
 	- [unitask](https://github.com/kiryud/unitask)
 		- 목업 디자인을 기반으로 MVVM 패턴 앱 제작 과정 학습
