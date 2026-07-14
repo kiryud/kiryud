@@ -5,5 +5,3 @@
 ![자료](./ecole42/42stat_all.png)
 
 ![자료](./ecole42/42stat_jijeong.png)
-
-![자료](./ecole42/42_latest_evaluation.png)
