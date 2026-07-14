@@ -84,7 +84,7 @@
 	- Entity / Dao / Service / Controller 구조 기반 DB 연동 CRUD JSP 웹사이트 구현
 - python (django channels)
 	- ft_transcendence에서 django channels를 기반 WebSocket 연결 이후의 메세지 처리 작성
-- C# (ASP.net Core / Window Forms / LINQ / RabbitMQ)
+- C# (.net / ASP.net Core / Window Forms / LINQ / RabbitMQ)
 	- 임의의 data를 json으로 변환하여 MQ에 보내는 Window Forms App
 	- MQ로부터 메세지를 받아와 json을 해석해 화면에 출력해주는 Window Console App
 - Kotlin (android / spring boot)
