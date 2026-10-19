@@ -1,19 +1,19 @@
 # Skills
 
-## Language list
+## Language list table
 |Lang|framework/library|explain|
 |:---|:---|:---|
 |C|-|-|
 |C++|-|-|
 |-|STL|-|
 |C#|-|-|
-|-|Window Form App|-|
+|-|Window Forms|-|
 |python|-|-|
 |-|Django|-|
 |Html/CSS|-|-|
 |JavaScript|-|-|
 |-|ThreeJS|-|
-|-|websocket|-|
+|-|websocket api|-|
 |JAVA|-|-|
 |-|Spring|-|
 |kotlin|-|-|
@@ -23,7 +23,7 @@
 |-|flutter|-|
 |-|-|-|
 
-## Tool
+## Tool list table
 |Tech|name|explain|
 |:---|:---|:---|
 |형상관리|-|-|
@@ -41,10 +41,10 @@
 |OS|-|-|
 |-|linux|-|
 |-|MacOS|-|
-|-|Window|-|
-|archetecture|-|-|
+|-|Windows|-|
+|architecture|-|-|
 |-|monolithic|-|
-|-|Micro Service Archetecture|-|
+|-|Micro Service Architecture|-|
 |DBMS|-|-|
 |-|mysql|-|
 |-|-|-|
@@ -53,7 +53,7 @@
 |-|web socket|-|
 |-|MQ|-|
 |-|ray-tracing|-|
-|-|algorythm|-|
+|-|algorithm|-|
 |-|-|-|
 
 
@@ -65,3 +65,53 @@
 
 
 ---
+
+# language
+
+## 공통사항
+
+- 약속어
+	- 자료형
+	- 연산자 및 연산자 우선순위
+- 주석, 선언, 명령
+- 분기, 반복
+- 함수(메서드) 인자, 반환값
+- 프로세스, 스레드 분기 및 뮤텍스, 세마포어
+- file decriptor
+	- file io
+		- file
+		- semaphore
+		- redirection
+		- pipe
+	- socket io
+	- nonblocking
+
+## c
+
+
+
+## cpp
+
+
+
+## c#
+
+
+
+## python
+
+
+
+## java
+
+
+
+## kotlin
+
+
+
+## javascript
+
+
+
+## typescript
