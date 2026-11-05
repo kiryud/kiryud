@@ -10,6 +10,8 @@
 
 - [백엔드 학습용 테스트 프로젝트](https://github.com/kiryud/test_project_kt_sb)
 	- 백엔드를 기준으로 사용할 기술은 설명할 수 있게, 사용하지 않을 영역은 간단하게 정리중
+ - [flutter 프로젝트 : study_tracker](https://github.com/kiryud/study_tracker)
+	- study tracker는 가칭. 추후 좋은 이름 떠올리면 좋을 것 같음
 
 ## Experienced
 > 요구사항 분석, 설계, 예외처리, 구현의 모든 과정을 직접 진행하여 프로젝트를 완성한 경험
